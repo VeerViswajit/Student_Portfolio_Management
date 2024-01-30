@@ -6,5 +6,7 @@ The user gets a personalized username and password for security purposes, it hel
 
 Features:
 1.Username and password created for teachers for login
+
 2.Marks scored by a student in various subjects
+
 3.The teachers can add or alter student’s records
